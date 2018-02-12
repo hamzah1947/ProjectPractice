@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "Nodejs Video call",
+  "repository": "https://github.com/hamzah1947/ProjectPractice",
+  "keywords": ["node", "express", "heroku"]
+}

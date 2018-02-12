@@ -1,0 +1,27 @@
+{
+  "name": "refreshed",
+  "version": "1.0.0",
+  "description": "video call page",
+  "engines": {
+    "node": "9.2.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "node-static": "^0.7.7",
+    "os": "^0.1.1",
+    "socket.io": "^1.2.0"
+  },
+  "keywords": [
+    "node",
+    "peer",
+    "video"
+  ],
+  "author": "hamza",
+  "license": "ISC"
+}
